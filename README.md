@@ -6,7 +6,7 @@
 
 # 用关键字删除功能 
 ----
- `
+```php
 $params = [
     'index' => 'sanctions_lists',
     'type' => $listName,
@@ -17,7 +17,7 @@ $params = [
     ]
 ];
 return $this->deleteByQuery($params);
- `
+```
 -----
 
 删除重复的功能
