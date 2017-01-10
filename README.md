@@ -26,7 +26,25 @@ $params = [
         ]
     ]
 ];
+$params = array(
+    "body" => array(
+        "query" => array(
+            "filtered" => array(
+                "query" => array(
+                    "match_phrase" => array(
+                        "content"  => "XXXXXX"
+                    ),
+                ),
+            ),
+        ),
+    ),
+);
+
 return $this->deleteByQuery($params);
+
+
+
+
 ```
 ### 删除接口建立
 
