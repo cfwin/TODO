@@ -28,9 +28,33 @@ $params = [
 ];
 return $this->deleteByQuery($params);
 ```
+### 删除接口建立
 
+```php
+批量删除
+for ($i = 303; $i < 310; $i++) {  
+    $params ['body'][] = array(  
+        'delete' => array(  
+            '_index' => 'er',  
+            '_type' => 'state',  
+            '_id' => $i  
+        )  
+    );  
+}  
+$response = $client -> bulk($params);
+```
 
+```
+单一删除
+$params = [
+    'index' => 'my_index',
+    'type' => 'my_type',
+    'id' => 'my_id'
+];
 
+// Delete doc at /my_index/my_type/my_id
+$response = $client->delete($params);
+```
 
 ### 删除重复的功能
 ----
