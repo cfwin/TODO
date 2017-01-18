@@ -5,9 +5,9 @@
 第一种，假如已经有了数组表达式或值，这通常来源于前期数据导入代码或者其他库，在这里只需要将其转换成NumPy数组即可。如下列代码，a为列表，通过np.array()将其转换为NumPy的ndarray类型。
 
 '''
->>> a = [[1,2,3],[4,5,6]
->>> a2 = np.array(a)
->>> print (type(a2))
+a = [[1,2,3],[4,5,6]
+a2 = np.array(a)
+print (type(a2))
 NumPy.ndarray
  '''
 
