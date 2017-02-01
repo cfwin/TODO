@@ -18,3 +18,5 @@ https://yq.aliyun.com/articles/67189
 http://my.csdn.net/mao_xiao_feng
 
 http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/
+
+http://www.liuhaihua.cn/
