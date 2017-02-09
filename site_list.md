@@ -23,3 +23,7 @@ http://www.liuhaihua.cn/
 
 
 http://peteryuan.net/autoencoder-stacked/
+
+
+
+https://docs.google.com/viewer?url=patentimages.storage.googleapis.com/pdfs/e713a5a354d85d85315d/CN105302884A.pdf
