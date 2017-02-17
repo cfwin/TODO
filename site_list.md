@@ -37,6 +37,8 @@ http://k-db.com/stocks/
 
 http://www.traders.co.jp/ 
 https://kabutan.jp/ 
+https://shikiho.jp/ 
+http://textream.yahoo.co.jp/category/1834773 
 
 
 
