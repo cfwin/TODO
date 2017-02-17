@@ -30,3 +30,13 @@ https://docs.google.com/viewer?url=patentimages.storage.googleapis.com/pdfs/e713
 
 
 http://camron.xyz/index.php/2016/10/03/nutshell-all-the-models/
+
+
+
+http://k-db.com/stocks/ 
+
+http://www.traders.co.jp/ 
+https://kabutan.jp/ 
+
+
+
