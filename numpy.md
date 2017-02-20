@@ -338,3 +338,31 @@ ndarray的T属性，用法则比较简单，只需要在数组后跟.T即可。.
 seq = np.sin(xs)
 res = np.cos(xs)
 ```
+
+
+```
+import numpy as np
+import time
+start_time = time.time()
+
+n1 = np.random.rand(3,3,2)
+n2 = np.zeros((512, 512, 2))
+
+x_index = 0
+
+print(n1)
+
+for x in n1:
+    y_index = 0
+    for y in x:
+        n2[x_index, y_index, 0] = y[0]
+        n2[x_index, y_index, 1] = y[1]
+        y_index = y_index + 1
+    x_index = x_index + 1
+
+
+#
+# for x in range():
+#     for x in x_row:
+```
+
