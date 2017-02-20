@@ -355,8 +355,7 @@ print(n1)
 for x in n1:
     y_index = 0
     for y in x:
-        n2[x_index, y_index, 0] = y[0]
-        n2[x_index, y_index, 1] = y[1]
+        n2[x_index, y_index] = y
         y_index = y_index + 1
     x_index = x_index + 1
 
