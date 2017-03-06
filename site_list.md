@@ -42,5 +42,6 @@ http://textream.yahoo.co.jp/category/1834773
 
 http://ojmhfvae7.bkt.clouddn.com/%E5%9B%BE%E5%83%8F%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2%E7%BB%BC%E8%BF%B0.pdf
 
+https://zhuanlan.zhihu.com/burness-DL
 
 
