@@ -50,3 +50,7 @@ https://dribbble.com/
 
 
 https://www.similarweb.com/
+
+http://www.arocmag.com/article/02-2017-05-index.html
+
+https://cjmcv.github.io/
